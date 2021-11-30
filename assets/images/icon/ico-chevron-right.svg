@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="chevron_right-24px" transform="translate(0 24) rotate(-90)">
+    <path id="Trazado_203" data-name="Trazado 203" d="M0,0H24V24H0Z" fill="rgba(0,0,0,0)"/>
+    <path id="Trazado_204" data-name="Trazado 204" d="M.417.419a1.419,1.419,0,0,0,0,2.009L5.946,7.957.417,13.487A1.421,1.421,0,0,0,2.426,15.5L8.967,8.955a1.419,1.419,0,0,0,0-2.009L2.426.4A1.432,1.432,0,0,0,.417.419Z" transform="translate(20.247 7.307) rotate(90)" fill="#19abbb"/>
+  </g>
+</svg>

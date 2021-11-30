@@ -1,0 +1,13 @@
+<svg id="grid_view_black_24dp" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Grupo_7490" data-name="Grupo 7490">
+    <rect id="Rectángulo_1887" data-name="Rectángulo 1887" width="24" height="24" fill="none"/>
+  </g>
+  <g id="Grupo_7492" data-name="Grupo 7492">
+    <g id="Grupo_7491" data-name="Grupo 7491">
+      <path id="Trazado_3989" data-name="Trazado 3989" d="M5,11H9a2.006,2.006,0,0,0,2-2V5A2.006,2.006,0,0,0,9,3H5A2.006,2.006,0,0,0,3,5V9A2.006,2.006,0,0,0,5,11Z" fill="#fff"/>
+      <path id="Trazado_3990" data-name="Trazado 3990" d="M5,21H9a2.006,2.006,0,0,0,2-2V15a2.006,2.006,0,0,0-2-2H5a2.006,2.006,0,0,0-2,2v4A2.006,2.006,0,0,0,5,21Z" fill="#fff"/>
+      <path id="Trazado_3991" data-name="Trazado 3991" d="M13,5V9a2.006,2.006,0,0,0,2,2h4a2.006,2.006,0,0,0,2-2V5a2.006,2.006,0,0,0-2-2H15A2.006,2.006,0,0,0,13,5Z" fill="#fff"/>
+      <path id="Trazado_3992" data-name="Trazado 3992" d="M15,21h4a2.006,2.006,0,0,0,2-2V15a2.006,2.006,0,0,0-2-2H15a2.006,2.006,0,0,0-2,2v4A2.006,2.006,0,0,0,15,21Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
